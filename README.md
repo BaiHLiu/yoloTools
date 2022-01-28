@@ -23,4 +23,8 @@
 #### 1.Organize your files into input directory pattern.
 #### 2.Modify your root path.
 #### 3.Set dataset ratio of train, valid, test.
+#### 4.Just run!
+    pip3 install -r requirements.txt
+    python3 sort.py
+    
 
