@@ -1,6 +1,7 @@
 # yoloTools
 
-### Just batch compress images, and organize them into Yolo directory format.
+## 1.Sort.py
+> Just batch compress images, and organize them into Yolo directory format.
 
 ### Input directory:
     .
@@ -27,4 +28,5 @@
     pip3 install -r requirements.txt
     python3 sort.py
     
-
+## 2.validPlot.py
+> Directly write box in the original image, using .json label files.
